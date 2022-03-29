@@ -1,8 +1,0 @@
-10 Tips To Step Up Your Game as a Software Developer in 2022
-Learn How To Write Clean Code
-Use Version Control Religiously
-Learn How To Go About Refactoring Code
-Read Books on Software Architecture
-Learn How IDEs Work
-Learn How To Write Good Commit Messages
-Learn at Least One Scripting Language
